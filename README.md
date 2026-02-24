@@ -108,11 +108,11 @@ Developed an automatic text-labeling system using advanced ML techniques.
 ## Get In Touch
 
 - Email: [phungdungquan73@gmail.com](mailto:phungdungquan73@gmail.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-DungQuanPhung-181717?style=flat&logo=github)]GitHub: [github.com/DungQuanPhung](https://github.com/DungQuanPhung)
-- 📞 Phone: 0909519886
-- 📍 Address: 81/78 Bach Van, Ward 5, District 5, Ho Chi Minh City
+- GitHub: [github.com/DungQuanPhung](https://github.com/DungQuanPhung)
+- Phone: 0909519886
+- Address: 81/78 Bach Van, An Dong Ward, Ho Chi Minh City
 
-## 📄 My CVs
+## My CVs
 
 This repository contains my CVs for different roles:
 - 📊 [Data Science CV](Phung_Dung_Quan_DS.pdf.pdf)
@@ -120,5 +120,4 @@ This repository contains my CVs for different roles:
 - 📈 [Data Analytics CV](Phung_Dung_Quan_DA.pdf.pdf)
 
 ---
-
-💡 *Open to collaboration on exciting AI/ML projects and data science initiatives!*
+*Open to collaboration on exciting AI/ML projects and data science initiatives!*

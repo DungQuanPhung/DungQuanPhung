@@ -1,5 +1,3 @@
-# Hi there, I'm Phung Dung Quan 👋
-
 [![GitHub](https://img.shields.io/badge/GitHub-DungQuanPhung-181717?style=flat&logo=github)](https://github.com/DungQuanPhung)
 [![Email](https://img.shields.io/badge/Email-phungdungquan73%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phungdungquan73@gmail.com)
 
@@ -66,7 +64,7 @@ Developed a sentiment analysis model for movie reviews using advanced NLP archit
 
 ---
 
-### 🏦 Loan Approval Prediction in Banking
+### Loan Approval Prediction in Banking
 Built a data-driven model to evaluate customers' repayment ability for informed lending decisions.
 
 **Impact:**
@@ -115,9 +113,9 @@ Developed an automatic text-labeling system using advanced ML techniques.
 ## My CVs
 
 This repository contains my CVs for different roles:
-- 📊 [Data Science CV](Phung_Dung_Quan_DS.pdf.pdf)
-- 🔧 [Data Engineering CV](Phung_Dung_Quan_DE.pdf.pdf)
-- 📈 [Data Analytics CV](Phung_Dung_Quan_DA.pdf.pdf)
+- [Data Science CV](Phung_Dung_Quan_DS.pdf.pdf)
+- [Data Engineering CV](Phung_Dung_Quan_DE.pdf.pdf)
+- [Data Analytics CV](Phung_Dung_Quan_DA.pdf.pdf)
 
 ---
 *Open to collaboration on exciting AI/ML projects and data science initiatives!*

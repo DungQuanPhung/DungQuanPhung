@@ -3,17 +3,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-DungQuanPhung-181717?style=flat&logo=github)](https://github.com/DungQuanPhung)
 [![Email](https://img.shields.io/badge/Email-phungdungquan73%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phungdungquan73@gmail.com)
 
-## 🎓 About Me
+## Introduction
 
 I'm a Data Science student at the University of Science (2022-2026), specializing in **Artificial Intelligence**, **Data Science**, **Data Engineering**, and **Data Analytics**. I'm passionate about applying my skills to real-world challenges and contributing to hands-on projects that make a difference.
 
-- 🔭 Currently working on AI/ML projects and data-driven solutions
-- 🌱 Deepening my expertise in Artificial Intelligence and Data Science
-- 💼 Open to opportunities in Data Science, Data Engineering, and Data Analytics roles
-- 📍 Located in Ho Chi Minh City, Vietnam
-- 🗣️ Languages: English, Chinese (Cantonese & Mandarin)
+- Currently working on AI/ML projects and data-driven solutions
+- Deepening my expertise in Artificial Intelligence and Data Science
+- Open to opportunities in Data Science, Data Engineering, and Data Analytics roles
+- Located in Ho Chi Minh City, Vietnam
+- Languages: English, Chinese (Cantonese & Mandarin)
 
-## 💼 Professional Skills
+## Professional Skills
 
 ### Data Analysis
 - Experienced in data cleaning, transformation, and visualization
@@ -42,9 +42,9 @@ I'm a Data Science student at the University of Science (2022-2026), specializin
 - Effective collaboration and team management
 - Excellent time management and project planning
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏆 ZALO AI CHALLENGE 2025 - Drone Object Detection & Tracking
+### ZALO AI CHALLENGE 2025 - Drone Object Detection & Tracking
 Developed an end-to-end computer vision system for real-time object detection and re-identification from drone surveillance footage.
 
 **Key Achievements:**
@@ -56,7 +56,7 @@ Developed an end-to-end computer vision system for real-time object detection an
 
 ---
 
-### 🎬 Text Sentiment Analysis
+### Text Sentiment Analysis
 Developed a sentiment analysis model for movie reviews using advanced NLP architectures.
 
 **Highlights:**
@@ -76,7 +76,7 @@ Built a data-driven model to evaluate customers' repayment ability for informed 
 
 ---
 
-### 🛡️ Insurance Purchase Prediction Model
+### Insurance Purchase Prediction Model
 Constructed a predictive model to estimate the likelihood of insurance purchases.
 
 **Results:**
@@ -86,7 +86,7 @@ Constructed a predictive model to estimate the likelihood of insurance purchases
 
 ---
 
-### ❤️ Heart Disease Risk Prediction Model
+### Heart Disease Risk Prediction Model
 Developed a predictive model to assess heart disease risk using patient health data.
 
 **Features:**
@@ -96,7 +96,7 @@ Developed a predictive model to assess heart disease risk using patient health d
 
 ---
 
-### 🏷️ Automatic Labeling Engine
+### Automatic Labeling Engine
 Developed an automatic text-labeling system using advanced ML techniques.
 
 **Innovation:**
@@ -105,10 +105,10 @@ Developed an automatic text-labeling system using advanced ML techniques.
 - Designed semi-supervised pipeline with transformer-based models and Sentence-BERT embeddings
 - **Improved labeling accuracy by ~30%** compared to baseline keyword-matching methods
 
-## 📫 Get In Touch
+## Get In Touch
 
-- 📧 Email: [phungdungquan73@gmail.com](mailto:phungdungquan73@gmail.com)
-- 💻 GitHub: [github.com/DungQuanPhung](https://github.com/DungQuanPhung)
+- Email: [phungdungquan73@gmail.com](mailto:phungdungquan73@gmail.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-DungQuanPhung-181717?style=flat&logo=github)]GitHub: [github.com/DungQuanPhung](https://github.com/DungQuanPhung)
 - 📞 Phone: 0909519886
 - 📍 Address: 81/78 Bach Van, Ward 5, District 5, Ho Chi Minh City
 
